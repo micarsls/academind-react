@@ -1,1 +1,3 @@
-React---The-Complete-Guide-by-Maximilian-Schwarzm-ller
+## academind-react
+
+Playing around react with Academind :)
